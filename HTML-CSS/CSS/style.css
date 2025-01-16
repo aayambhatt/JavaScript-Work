@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+
+}
+
+
+h1{
+    color: #4676a9;
+    text-align: center;
+}
+
+h2{
+    color: #cd731c;
+}
+
+header{
+    text-align: center;
+}
+
+footer {
+    background-color: #22466c;
+    color: #ffffff;
+}
